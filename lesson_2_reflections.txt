@@ -11,6 +11,7 @@ You can compare against the previous commit to see the change you made. You can 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+If you want to try a new version or experimental version, but want to keep developing the main branch. You can keep both independently updated. Also you can branch if two people want to work on the same project and make different changes.
 
 How do the diagrams help you visualize the branch structure?
 

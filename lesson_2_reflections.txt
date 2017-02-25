@@ -14,6 +14,7 @@ organized? How would branches help?
 If you want to try a new version or experimental version, but want to keep developing the main branch. You can keep both independently updated. Also you can branch if two people want to work on the same project and make different changes.
 
 How do the diagrams help you visualize the branch structure?
+You can see at which version the branches split off, so what changes may be missed in one branch. You can see in case there is a new branch without a name and why you wouldn’t be able to access it. You can see how to access other commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

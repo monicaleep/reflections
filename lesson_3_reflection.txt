@@ -1,12 +1,12 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    In case of multiple machines or multiple people working on the repositories. In case of comupter crashes.
+    In case of multiple machines or multiple people working on the repositories. In case of computer crashes.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Maybe someone else made a change that you don’t want on your machine. Maybe the internet speed is very slow so better not to pull a change unless necessary.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?

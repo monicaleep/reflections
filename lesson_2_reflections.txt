@@ -18,6 +18,8 @@ You can see at which version the branches split off, so what changes may be miss
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The result of margin two branches is a new commit with the features of both branches and compared to the shared parent branch. We represent it in the diagram this way because now the merged commit has shared parent commits with different changes.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+The pros of automatic merging is for most of the time it will be much faster and not take too much time. Especially in simple cases it will merge without issue. The Con of automatic margin comes up when a conflict arises and you need to know the code well enough to find a conflict resolution.
